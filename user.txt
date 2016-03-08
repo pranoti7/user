@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hello world!
 Welcome to GitHub...
 
+=======
+Hello world
+hiii
+>>>>>>> 1a67754ea8a85eee8c66dc1c28a01ff53c35f56c
 
